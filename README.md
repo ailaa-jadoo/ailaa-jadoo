@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://harsh-chaudhary-portfolio.netlify.app/](https://harsh-chaudhary-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://harsh-porto.netlify.app/)
 
 - 📫 How to reach me **harsh.chaudhary.11.07.02@gmail.com**
 
